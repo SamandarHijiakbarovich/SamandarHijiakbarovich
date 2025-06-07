@@ -42,7 +42,8 @@
 - GitHub: [github.com/SamandarHijiakbarovich](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SamandarHijiakbarovich&theme=react-dark)
+![Samandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
 
 ---
 
