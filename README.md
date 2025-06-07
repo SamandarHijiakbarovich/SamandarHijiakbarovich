@@ -42,5 +42,8 @@
 - GitHub: [github.com/SamandarHijiakbarovich](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SamandarHijiakbarovich&theme=react-dark)
+
+---
 
 _Profilimga tashrif buyurganingiz uchun rahmat!_ 😊
