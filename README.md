@@ -1,21 +1,21 @@
-# 👋 Assalomu alaykum! Men — Samandar
+#  Assalomu alaykum! Men — Samandar
 
-🎯 Men — zamonaviy dasturlar yaratishga qiziqadigan va shu sohada faoliyat yuritayotgan **software developer**man.  
-💻 Asosiy maqsadim — foydali, sodda va qulay web ilovalarni ishlab chiqish.  
-🚀 Har kuni yangi narsa o‘rganishga intilaman.
-
----
-
-## 👀 Qiziqishlarim
-
-- 🔧 Full Stack dasturlash (C#, .NET Core, Blazor)
-- 🌐 RESTful API yaratish va Clean Architecture asosida ishlash
-- 📱 O‘zbekiston hayotidagi muammolarni yechishga qaratilgan veb ilovalar
-- 🧠 Yangi texnologiyalarni o‘rganish va o‘z ustimda ishlash
+ Men — zamonaviy dasturlar yaratishga qiziqadigan va shu sohada faoliyat yuritayotgan **software developer**man.  
+ Asosiy maqsadim — foydali, sodda va qulay web ilovalarni ishlab chiqish.  
+ Har kuni yangi narsa o‘rganishga intilaman.
 
 ---
 
-## 🛠 Texnologiyalar (Tech Stack)
+##  Qiziqishlarim
+
+ Full Stack dasturlash (C#, .NET Core, Blazor)
+ RESTful API yaratish va Clean Architecture asosida ishlash
+ O‘zbekiston hayotidagi muammolarni yechishga qaratilgan veb ilovalar
+ Yangi texnologiyalarni o‘rganish va o‘z ustimda ishlash
+
+---
+
+ Texnologiyalar (Tech Stack)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
@@ -29,22 +29,17 @@
 
 ---
 
-## 📈 GitHub statistikasi
+ GitHub statistikasi
 
 ![Samandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamandarHijiakbarovich&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamandarHijiakbarovich&layout=compact&theme=radical)
 
 ---
 
-## 📬 Menga bog‘laning
+Menga bog‘laning
 
 - Telegram: [@yourusername](https://t.me/Samandar_AsSabr)
 - Email: mamasoatovsamandar5@gmail.com
 - GitHub: [github.com/SamandarHijiakbarovich](https://github.com/YOUR_GITHUB_USERNAME)
 
----
 
-
----
-
-_Profilimga tashrif buyurganingiz uchun rahmat!_ 😊
